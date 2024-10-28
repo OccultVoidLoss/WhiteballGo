@@ -1,6 +1,7 @@
 # First-plataformer-gml
-primeiro jogo q eu faço no gamemaker studio2
-ta cheio de bug
-bugs q eu ja sei e to pensando como resolver:
-chao nao tem colisão de lado e nem de cima
-da pra atravessar o chao por baixo e pular por dentro do bloco
+my first plataformer game on gamemaker 2
+very basic and simple 
+there are many bugs and problems that maybe or not im going to solve
+knowns bugs:
+- Ground Blocks and plataform doesn't have colision from below, you can cross these blocks from behind and jump from inside it
+
